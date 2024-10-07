@@ -1,0 +1,17 @@
+Classify the following movie reviews as Positive or Negative.
+
+Review: "I absolutely loved this movie! The performances were stellar and the story was gripping."
+Classification: Positive
+
+Review: "The film was boring and I wasted two hours of my life."
+Classification: Negative
+
+Review: "An excellent portrayal of the protagonist's journey. Highly recommended."
+Classification: Positive
+
+Review: "Terrible script and poor acting. Not worth watching."
+Classification: Negative
+
+Review: "{review}"
+
+Classification:

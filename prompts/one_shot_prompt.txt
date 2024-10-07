@@ -1,0 +1,8 @@
+Classify the following movie review as Positive or Negative.
+
+Review: "I absolutely loved this movie! The performances were stellar and the story was gripping."
+Classification: Positive
+
+Review: "{review}"
+
+Classification:
